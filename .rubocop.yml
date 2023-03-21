@@ -1,0 +1,7 @@
+AllCops:
+  NewCops: enable
+Metrics/BlockLength:
+  Exclude:
+    - "spec/factories/**/*.rb"
+Documentation:
+  Enabled: false
