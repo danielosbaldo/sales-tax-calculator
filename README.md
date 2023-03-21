@@ -11,7 +11,7 @@ The Sales Tax Calculator is a Ruby command-line application that calculates sale
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/sales-tax-calculator.git
+git clone https://github.com/danielosbaldo/sales-tax-calculator.git
 ```
 
 
